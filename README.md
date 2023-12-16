@@ -21,8 +21,7 @@ Running with Binance (single ticker):
 Edit config.json to add your API keys.
 
 Example config.json
-json
-Download
+
 
 {
     "twitter_keys": {
@@ -30,14 +29,6 @@ Download
         "consumer_secret": "YOUR_CONSUMER_SECRET",
         "access_token_key": "YOUR_ACCESS_TOKEN_KEY",
         "access_token_secret": "YOUR_ACCESS_TOKEN_SECRET"
-    },
-    "binance_keys": {
-        "publickey": "YOUR_BINANCE_PUBLIC_KEY",
-        "privatekey": "YOUR_BINANCE_PRIVATE_KEY"
-    },
-    "kraken_keys": {
-        "api_key": "YOUR_KRAKEN_API_KEY",
-        "secret_key": "YOUR_KRAKEN_SECRET_KEY"
     }
 }
 
@@ -57,7 +48,7 @@ Advanced trading strategies based on more complex tweet analysis.
 ## 🚩 Disclaimer
 Investing in cryptocurrencies is risky, and you may lose all your capital. Please use this bot responsibly and at your own risk.
 
-##📭 Contact
+## 📭 Contact
 For any queries or issues, feel free to contact us. We appreciate your feedback.
 
 🌟 Don't forget to star the repository if you find it useful. Happy trading! 🌟
