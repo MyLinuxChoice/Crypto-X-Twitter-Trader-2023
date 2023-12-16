@@ -1,0 +1,53 @@
+{
+
+
+    "twitter_keys":{
+        "consumer_key":"XXXXXXXXXXXXXXXXXXXX",
+        "consumer_secret":"XXXXXXXXXXXXXXXXXXXX",
+        "access_token_key":"XXXXXXXXXXXXXXXXXXXX",
+        "access_token_secret":"XXXXXXXXXXXXXXXXXXXX"
+    },
+
+    "eth_chain_wallet_keys":{
+        "publickey":"XXXXXXXXXXXXXXXXXXXX",
+        "privatekey":"XXXXXXXXXXXXXXXXXXXX"
+    },
+    "binance_chain_wallet_keys":{
+        "publickey":"XXXXXXXXXXXXXXXXXXXX",
+        "privatekey":"XXXXXXXXXXXXXXXXXXXX"
+    },
+    "avax_chain_wallet_keys":{
+        "publickey":"XXXXXXXXXXXXXXXXXXXX",
+        "privatekey":"XXXXXXXXXXXXXXXXXXXX"
+    },
+    "fantom_chain_wallet_keys":{
+        "publickey":"XXXXXXXXXXXXXXXXXXXX",
+        "privatekey":"XXXXXXXXXXXXXXXXXXXX"
+    },
+
+    "binance_keys":{
+        "api_key":"XXXXXXXXXXXXXXXXXXXX",
+        "secret_key":"XXXXXXXXXXXXXXXXXXXX"
+    },
+    "kraken_keys":{
+    	"api_key":"XXXXXXXXXXXXXXXXXXXX",
+        "secret_key":"XXXXXXXXXXXXXXXXXXXX"
+    },
+    "okx_keys":{
+        "api_key":"XXXXXXXXXXXXXXXXXXXX",
+        "secret_key":"XXXXXXXXXXXXXXXXXXXX"
+    },
+    "bingx_keys":{
+        "api_key":"XXXXXXXXXXXXXXXXXXXX",
+        "secret_key":"XXXXXXXXXXXXXXXXXXXX"
+    },
+    "mxec_keys":{
+        "api_key":"XXXXXXXXXXXXXXXXXXXX",
+        "secret_key":"XXXXXXXXXXXXXXXXXXXX"
+    },
+    "coinbase_keys":{
+        "api_key":"XXXXXXXXXXXXXXXXXXXX",
+        "secret_key":"XXXXXXXXXXXXXXXXXXXX"
+    }
+
+}

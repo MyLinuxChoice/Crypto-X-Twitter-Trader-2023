@@ -1,0 +1,8 @@
+.DS_Store
+*.ipynb
+*futures*
+*jaimin*
+*.csv
+*scrape*
+venv
+*limit*
