@@ -1,4 +1,4 @@
-# 🚀 Crypto AI Tweet Trader 🚀
+# <center> 🚀 Crypto AI Tweet Trader 🚀 </center> 
 
 A powerful, innovative, and real-time crypto trading bot that triggers trades based on keywords from Twitter tweets.
 
@@ -10,7 +10,7 @@ A powerful, innovative, and real-time crypto trading bot that triggers trades ba
 - 🛠️ **Customizable Trading Strategies**: Specify your own keywords and coins to implement any trade strategies.
 - 💼 **Supports Binance & Kraken Exchanges**: API keys are kept securely in a separate json file.
 - ⌛ **Graceful Exit**: When you hit ctrl-c, it waits for the trades to sell automatically according to the specification then closes the program.
-- 
+
 <center><img src="[https://github.com/jaimindp/Twitter_Activated_Crypto_Trading_Bot/blob/main/elon_2.gif)"></center>
 
 ## 🚀 Getting Started
