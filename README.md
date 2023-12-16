@@ -11,7 +11,10 @@ A powerful, innovative, and real-time crypto trading bot that triggers trades ba
 - 💼 **Supports Binance & Kraken Exchanges**: API keys are kept securely in a separate json file.
 - ⌛ **Graceful Exit**: When you hit ctrl-c, it waits for the trades to sell automatically according to the specification then closes the program.
 
-<center> <img src="[https://github.com/jaimindp/Twitter_Activated_Crypto_Trading_Bot/blob/main/elon_2.gif)"> </center>
+<p align="center">
+  <img src="https://github.com/jaimindp/Twitter_Activated_Crypto_Trading_Bot/blob/main/elon_2.gif">
+</p>
+
 
 ## 🚀 Getting Started
 
