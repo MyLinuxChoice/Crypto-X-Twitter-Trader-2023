@@ -1,4 +1,4 @@
-# 🚀 Crypto AI Tweet Trader 🚀 
+# 🚀 Crypto X Twitter Trader 2023 🚀 
 
 A powerful, innovative, and real-time crypto trading bot that triggers trades based on keywords from Twitter tweets.
 
