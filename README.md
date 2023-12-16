@@ -15,7 +15,7 @@ A powerful, innovative, and real-time crypto trading bot that triggers trades ba
 
 ### Installation
 
-```sh
+
 pip install -r requirements.txt
 Running with Binance (single ticker):
 Edit config.json to add your API keys.
@@ -40,7 +40,7 @@ Download
         "secret_key": "YOUR_KRAKEN_SECRET_KEY"
     }
 }
-...
+
 
 ## 📝 Notes
 A Twitter Developer API is required to detect tweets through Tweepy.
@@ -53,10 +53,11 @@ If anything is not working correctly, please let us know!
 Futures trading up to 100x leverage.
 More exchanges to be supported.
 Advanced trading strategies based on more complex tweet analysis.
+
 ## 🚩 Disclaimer
 Investing in cryptocurrencies is risky, and you may lose all your capital. Please use this bot responsibly and at your own risk.
 
-📭 Contact
+##📭 Contact
 For any queries or issues, feel free to contact us. We appreciate your feedback.
 
 🌟 Don't forget to star the repository if you find it useful. Happy trading! 🌟
