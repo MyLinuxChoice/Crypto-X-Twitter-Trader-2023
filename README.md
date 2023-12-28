@@ -14,7 +14,7 @@ A powerful, innovative, and real-time crypto trading bot that triggers trades ba
 <p align="center">
   <img src="https://github.com/jaimindp/Twitter_Activated_Crypto_Trading_Bot/blob/main/elon_2.gif">
 </p>
- 
+
 
 ## 🚀 Getting Started
 
