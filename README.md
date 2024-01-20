@@ -3,7 +3,7 @@
 A powerful, innovative, and real-time crypto trading bot that triggers trades based on keywords from Twitter tweets.
 
 ## 🎯 Features
-
+ 
 - 📱 **Real-time Twitter Monitoring**: Our bot monitors keywords from Tweets in real-time, triggering trades in a split second.
 - 📈 **Trade Multiple Cryptos Concurrently**: Multi-threading enables multiple trades to occur at the same time.
 - 💰 **Dynamic Adjustments**: Buy amounts are requested in $ and dynamically adjusted to valid crypto amounts based on the latest exchange rate.
